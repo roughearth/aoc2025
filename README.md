@@ -4,7 +4,7 @@ React front end, scaffolded in NextJS (but an old version, since this isn't the 
 
 ## Changed
 
-This year only has 12 days. I just grateful that Eric is still running it.
+This year only has 12 days. I'm just grateful that [Eric](https://github.com/topaz) is still running it.
 
 ## Days
 
