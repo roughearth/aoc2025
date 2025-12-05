@@ -2,6 +2,10 @@
 
 React front end, scaffolded in NextJS (but an old version, since this isn't the first AoC I've done this way, and it works).
 
+## Changed
+
+This year only has 12 days. I just grateful that Eric is still running it.
+
 ## Days
 
 |                 Mo |                 Tu |                   We |                   Th |                   Fr |                 Sa |                 Su |
